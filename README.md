@@ -6,7 +6,7 @@ Create a function that returns the next bigger number using the same digits from
 
 ### Solution:
 
-- written in javascript.
+###### written in javascript.
 
 First, split the number into 2 parts, left and right. The right start from including the last 2 digits of the number.
 
